@@ -23,12 +23,10 @@
     "require": {
         "php": ">=5.3.3",
         "zendframework/zend-servicemanager": "2.*",
-        "zendframework/zend-stdlib": "2.*",
         "zfr/zfr-pusher": "1.*"
     },
     "require-dev": {
-        "zendframework/zend-mvc": "2.*",
-        "zendframework/zend-config": "2.*"
+        "zendframework/zendframework": "2.*"
     },
     "autoload": {
         "psr-0": {
