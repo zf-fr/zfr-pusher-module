@@ -1,7 +1,8 @@
 ZfrPusherModule
 ===============
 
-[![Build Status](https://travis-ci.org/zf-fr/zfr-pusher-module.png?branch=master)](https://travis-ci.org/zf-fr/zfr-pusher-module) Version 1.0.0
+[![Build Status](https://travis-ci.org/zf-fr/zfr-pusher-module.png?branch=master)](https://travis-ci.org/zf-fr/zfr-pusher-module)
+[![Latest Stable Version](https://poser.pugx.org/zfr/zfr-pusher-module/v/stable.png)](https://packagist.org/packages/zfr/zfr-pusher-module)
 
 Introduction
 ------------
